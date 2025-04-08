@@ -1,0 +1,7 @@
+*.tar.gz
+*.zip
+*.pyc
+*.csv
+*.json
+
+SHHQ-1.0_samples/
